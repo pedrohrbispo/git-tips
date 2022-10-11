@@ -1,0 +1,2 @@
+1 -- it reset --soft HEAD~1 (When running this command, you will be presented with the files from the most recent commit (HEAD) and you will be able to commit them.)
+2 -- git clone -b {your branch} --single branch {git url} <optional>{destination folder name} (With this command you can clone only a single branch from a repository)
